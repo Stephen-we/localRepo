@@ -1,8 +1,8 @@
 import java.util.*; 
- public class Linear{
+ public class Main{
   public static void main(String [] args){
     int nums[] = {5,11,52,13,15};
-    int target = 13;
+    int target = 52;
 
     int result = linearSearch(nums,target);
      
